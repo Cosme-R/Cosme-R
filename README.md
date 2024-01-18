@@ -7,6 +7,7 @@
 
 
 
+
 <h2>Interesses</h2>
 
 <div style="display: flex; align-items: center;">
@@ -32,5 +33,9 @@
           
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+
+
           
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
