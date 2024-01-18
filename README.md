@@ -2,7 +2,10 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=default&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align: center;">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 
 
