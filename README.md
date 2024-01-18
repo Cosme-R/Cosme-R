@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Cosme</h2>
+  <h1>Cosme</h1>
 
 <h3>estatisticas</h3>
 
