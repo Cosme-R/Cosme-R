@@ -1,4 +1,6 @@
 <h1>Meu nome é Cosme</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cosme-R&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>Interesses</h2>
 
 <div style="display: flex; align-items: center;">
