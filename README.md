@@ -1,12 +1,6 @@
 <h1>Meu nome é Cosme</h1>
 
 
-
-<div style="text-align: center;">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 <div style="text-align: center; margin: 0 auto;">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
