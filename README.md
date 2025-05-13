@@ -59,6 +59,7 @@ Desenvolvedor C++ e Python, com interesse em sistemas de baixo nível, engenhari
 
 
   <img width="475px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=compact&theme=dark"/>
+  <img width="475px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=compact&theme=midnight-purple"/>
 
 
 
@@ -68,7 +69,6 @@ Desenvolvedor C++ e Python, com interesse em sistemas de baixo nível, engenhari
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=compact&theme=midnight-purple)
 
 
 
