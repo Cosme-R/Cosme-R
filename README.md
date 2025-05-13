@@ -57,13 +57,19 @@ Desenvolvedor C++ e Python, com interesse em sistemas de baixo nível, engenhari
 
 ---
 
-
-  <img width="475px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=compact&theme=dark"/>
-  <img width="475px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=compact&theme=midnight-purple"/>
-
-
+  <p align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css,makefile&langs_count=10&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="250" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Cosme-R&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24&width=400" alt="Estatísticas" height="250" />
+  </div>
+  <br />
+ 
+</p>
 
 ---
+
+
+
 
 
 
