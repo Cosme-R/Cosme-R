@@ -1,21 +1,11 @@
+![Header](./github-header-image(4).png)
 
 
 
 
-<h1 align="center">👋 Olá, seja bem-vindo(a)!</h1>
+🏆 3º lugar em maratona de programação (IFSP)<br>
+🎯 Entusiasta de engenharia reversa
 
-<p align="center">
-💻 Desenvolvedor brasileiro com foco em c++, Python e Cibersegurança
-</p>
-
-
-Desenvolvedor C++ e Python, com interesse em sistemas de baixo nível, engenharia reversa e segurança ofensiva. Gosto de entender como os sistemas funcionam em sua essência.
-
-
-
-
-🏆 3º lugar em maratona de programação (IFSP)
-🎯 Entusiasta de engenharia reversa  
 
 ---
 
