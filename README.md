@@ -12,7 +12,7 @@
 ## 🚀 Atualmente estudando
 
 - 🌱 Aprendendo Flutter para desenvolvimento mobile multiplataforma  
-- 🔐 Cibersegurança ofensiva: pentest, análise de malware e engenharia reversa
+- 🔐 Cibersegurança ofensiva: pentest
 - 🐧 Automatizando tarefas no Linux com Bash e Python 
 
 ---
