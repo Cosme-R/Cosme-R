@@ -3,7 +3,7 @@
 
 
 
-🏆 3º lugar em maratona de programação (IFSP)<br>
+🏆 3º lugar na maratona de programação (IFSP)<br>
 
 
 ---
