@@ -4,7 +4,6 @@
 
 
 🏆 3º lugar em maratona de programação (IFSP)<br>
-🎯 Entusiasta de engenharia reversa
 
 
 ---
