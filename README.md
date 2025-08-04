@@ -52,7 +52,8 @@
 
 ---
 
-![[finalgit.gif]]
+![](finalgit.gif)
+
 
 
 
